@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/ai-review-responder/admin-panel/$1" }
-  ]
-}
